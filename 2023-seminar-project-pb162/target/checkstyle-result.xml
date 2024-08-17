@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.45.1">
+<file name="C:\Users\haemk\2023-pb162-seminar-project\src\main\java\cz\muni\fi\pb162\project\Board.java">
+</file>
+<file name="C:\Users\haemk\2023-pb162-seminar-project\src\main\java\cz\muni\fi\pb162\project\Buildable.java">
+</file>
+<file name="C:\Users\haemk\2023-pb162-seminar-project\src\main\java\cz\muni\fi\pb162\project\Caretaker.java">
+</file>
+<file name="C:\Users\haemk\2023-pb162-seminar-project\src\main\java\cz\muni\fi\pb162\project\Chess.java">
+</file>
+<file name="C:\Users\haemk\2023-pb162-seminar-project\src\main\java\cz\muni\fi\pb162\project\Color.java">
+</file>
+<file name="C:\Users\haemk\2023-pb162-seminar-project\src\main\java\cz\muni\fi\pb162\project\Coordinates.java">
+</file>
+<file name="C:\Users\haemk\2023-pb162-seminar-project\src\main\java\cz\muni\fi\pb162\project\demo\Main.java">
+</file>
+<file name="C:\Users\haemk\2023-pb162-seminar-project\src\main\java\cz\muni\fi\pb162\project\Draughts.java">
+</file>
+<file name="C:\Users\haemk\2023-pb162-seminar-project\src\main\java\cz\muni\fi\pb162\project\exceptions\EmptySquareException.java">
+</file>
+<file name="C:\Users\haemk\2023-pb162-seminar-project\src\main\java\cz\muni\fi\pb162\project\exceptions\InvalidFormatOfInputException.java">
+</file>
+<file name="C:\Users\haemk\2023-pb162-seminar-project\src\main\java\cz\muni\fi\pb162\project\exceptions\MissingPlayerException.java">
+</file>
+<file name="C:\Users\haemk\2023-pb162-seminar-project\src\main\java\cz\muni\fi\pb162\project\exceptions\NotAllowedMoveException.java">
+</file>
+<file name="C:\Users\haemk\2023-pb162-seminar-project\src\main\java\cz\muni\fi\pb162\project\Game.java">
+</file>
+<file name="C:\Users\haemk\2023-pb162-seminar-project\src\main\java\cz\muni\fi\pb162\project\GameReadable.java">
+</file>
+<file name="C:\Users\haemk\2023-pb162-seminar-project\src\main\java\cz\muni\fi\pb162\project\GameWritable.java">
+</file>
+<file name="C:\Users\haemk\2023-pb162-seminar-project\src\main\java\cz\muni\fi\pb162\project\Memento.java">
+</file>
+<file name="C:\Users\haemk\2023-pb162-seminar-project\src\main\java\cz\muni\fi\pb162\project\moves\Diagonal.java">
+</file>
+<file name="C:\Users\haemk\2023-pb162-seminar-project\src\main\java\cz\muni\fi\pb162\project\moves\Jump.java">
+</file>
+<file name="C:\Users\haemk\2023-pb162-seminar-project\src\main\java\cz\muni\fi\pb162\project\moves\Knight.java">
+</file>
+<file name="C:\Users\haemk\2023-pb162-seminar-project\src\main\java\cz\muni\fi\pb162\project\moves\Move.java">
+</file>
+<file name="C:\Users\haemk\2023-pb162-seminar-project\src\main\java\cz\muni\fi\pb162\project\moves\Pawn.java">
+</file>
+<file name="C:\Users\haemk\2023-pb162-seminar-project\src\main\java\cz\muni\fi\pb162\project\moves\Straight.java">
+</file>
+<file name="C:\Users\haemk\2023-pb162-seminar-project\src\main\java\cz\muni\fi\pb162\project\Originator.java">
+</file>
+<file name="C:\Users\haemk\2023-pb162-seminar-project\src\main\java\cz\muni\fi\pb162\project\Piece.java">
+</file>
+<file name="C:\Users\haemk\2023-pb162-seminar-project\src\main\java\cz\muni\fi\pb162\project\PieceType.java">
+</file>
+<file name="C:\Users\haemk\2023-pb162-seminar-project\src\main\java\cz\muni\fi\pb162\project\Playable.java">
+</file>
+<file name="C:\Users\haemk\2023-pb162-seminar-project\src\main\java\cz\muni\fi\pb162\project\Player.java">
+</file>
+<file name="C:\Users\haemk\2023-pb162-seminar-project\src\main\java\cz\muni\fi\pb162\project\Prototype.java">
+</file>
+<file name="C:\Users\haemk\2023-pb162-seminar-project\src\main\java\cz\muni\fi\pb162\project\StateOfGame.java">
+</file>
+<file name="C:\Users\haemk\2023-pb162-seminar-project\src\main\java\cz\muni\fi\pb162\project\utils\BoardNotation.java">
+</file>
+</checkstyle>

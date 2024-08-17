@@ -1,0 +1,1065 @@
+# Created at 2023-05-09T12:11:35.330
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: null
+java.io.EOFException
+	at java.base/java.io.DataInputStream.readInt(DataInputStream.java:398)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+
+# Created at 2023-05-09T12:11:35.837
+Unexpected IOException: I,1,sun.cpu.endian,little
+
+
+# Created at 2023-05-09T12:11:35.850
+Unexpected IOException: I,1,user.home,C:\005CUsers\005Chaemk
+
+
+# Created at 2023-05-09T12:11:35.850
+Unexpected IOException: I,1,user.language,cs
+
+
+# Created at 2023-05-09T12:11:35.851
+Unexpected IOException: I,1,java.specification.vendor,Oracle Corporation
+
+
+# Created at 2023-05-09T12:11:35.851
+Unexpected IOException: I,1,java.version.date,2023-01-17
+
+
+# Created at 2023-05-09T12:11:35.852
+Unexpected IOException: I,1,java.home,C:\005CProgram Files\005CJava\005Cjdk-17
+
+
+# Created at 2023-05-09T12:11:35.852
+Unexpected IOException: I,1,file.separator,\005C
+
+
+# Created at 2023-05-09T12:11:35.853
+Unexpected IOException: I,1,basedir,C:\005CUsers\005Chaemk\005C2023-pb162-seminar-project
+
+
+# Created at 2023-05-09T12:11:35.853
+Unexpected IOException: I,1,java.vm.compressedOopsMode,Zero based
+
+
+# Created at 2023-05-09T12:11:35.854
+Unexpected IOException: I,1,line.separator,\000D\000A
+
+
+# Created at 2023-05-09T12:11:35.854
+Unexpected IOException: I,1,java.vm.specification.vendor,Oracle Corporation
+
+
+# Created at 2023-05-09T12:11:35.855
+Unexpected IOException: I,1,java.specification.name,Java Platform API Specification
+
+
+# Created at 2023-05-09T12:11:35.855
+Unexpected IOException: I,1,user.script,
+
+
+# Created at 2023-05-09T12:11:35.856
+Unexpected IOException: I,1,sun.management.compiler,HotSpot 64-Bit Tiered Compilers
+
+
+# Created at 2023-05-09T12:11:35.856
+Unexpected IOException: I,1,java.runtime.version,17.0.6+9-LTS-190
+
+
+# Created at 2023-05-09T12:11:35.857
+Unexpected IOException: I,1,user.name,haemk
+
+
+# Created at 2023-05-09T12:11:35.857
+Unexpected IOException: I,1,path.separator,;
+
+
+# Created at 2023-05-09T12:11:35.858
+Unexpected IOException: I,1,os.version,10.0
+
+
+# Created at 2023-05-09T12:11:35.858
+Unexpected IOException: I,1,java.runtime.name,Java(TM) SE Runtime Environment
+
+
+# Created at 2023-05-09T12:11:35.859
+Unexpected IOException: I,1,file.encoding,Cp1250
+
+
+# Created at 2023-05-09T12:11:35.859
+Unexpected IOException: I,1,java.vm.name,Java HotSpot(TM) 64-Bit Server VM
+
+
+# Created at 2023-05-09T12:11:35.859
+Unexpected IOException: I,1,localRepository,C:\005CUsers\005Chaemk\005C.m2\005Crepository
+
+
+# Created at 2023-05-09T12:11:35.860
+Unexpected IOException: I,1,java.vendor.url.bug,https://bugreport.java.com/bugreport/
+
+
+# Created at 2023-05-09T12:11:35.860
+Unexpected IOException: I,1,java.io.tmpdir,C:\005CUsers\005Chaemk\005CAppData\005CLocal\005CTemp\005C
+
+
+# Created at 2023-05-09T12:11:35.861
+Unexpected IOException: I,1,java.version,17.0.6
+
+
+# Created at 2023-05-09T12:11:35.862
+Unexpected IOException: I,1,user.dir,C:\005CUsers\005Chaemk\005C2023-pb162-seminar-project
+
+
+# Created at 2023-05-09T12:11:35.862
+Unexpected IOException: I,1,os.arch,amd64
+
+
+# Created at 2023-05-09T12:11:35.863
+Unexpected IOException: I,1,java.vm.specification.name,Java Virtual Machine Specification
+
+
+# Created at 2023-05-09T12:11:35.863
+Unexpected IOException: I,1,sun.os.patch.level,
+
+
+# Created at 2023-05-09T12:11:35.864
+Unexpected IOException: I,1,native.encoding,Cp1250
+
+
+# Created at 2023-05-09T12:11:35.864
+Unexpected IOException: I,1,java.library.path,C:\005CProgram Files\005CJava\005Cjdk-17\005Cbin;C:\005CWINDOWS\005CSun\005CJava\005Cbin;C:\005CWINDOWS\005Csystem32;C:\005CWINDOWS;C:\005CUsers\005Chaemk\005Cbin;C:\005CProgram Files\005CGit\005Cmingw64\005Cbin;C:\005CProgram Files\005CGit\005Cusr\005Clocal\005Cbin;C:\005CProgram Files\005CGit\005Cusr\005Cbin;C:\005CProgram Files\005CGit\005Cusr\005Cbin;C:\005CProgram Files\005CGit\005Cmingw64\005Cbin;C:\005CProgram Files\005CGit\005Cusr\005Cbin;C:\005CUsers\005Chaemk\005Cbin;C:\005CProgram Files\005CPuTTY;C:\005CProgram Files\005CCommon Files\005COracle\005CJava\005Cjavapath;C:\005CProgram Files (x86)\005CCommon Files\005COracle\005CJava\005Cjavapath;C:\005CProgram Files\005CGit\005Ccmd;C:\005CWINDOWS\005Csystem32;C:\005CWINDOWS;C:\005CWINDOWS\005CSystem32\005CWbem;C:\005CWINDOWS\005CSystem32\005CWindowsPowerShell\005Cv1.0;C:\005CWINDOWS\005CSystem32\005COpenSSH;C:\005CProgram Files\005CMaven\005Cbin;C:\005CUsers\005Chaemk\005CAppData\005CLocal\005CMicrosoft\005CWindowsApps;C:\005CUsers\005Chaemk\005CAppData\005CLocal\005CPrograms\005CMicrosoft VS Code\005Cbin;C:\005CProgram Files\005CMaven\005Cbin;C:\005CProgram Files\005CGit\005Cusr\005Cbin\005Cvendor_perl;C:\005CProgram Files\005CGit\005Cusr\005Cbin\005Ccore_perl;.
+
+
+# Created at 2023-05-09T12:11:35.865
+Unexpected IOException: I,1,java.vm.info,mixed mode\002C sharing
+
+
+# Created at 2023-05-09T12:11:35.865
+Unexpected IOException: I,1,java.vendor,Oracle Corporation
+
+
+# Created at 2023-05-09T12:11:35.866
+Unexpected IOException: I,1,java.vm.version,17.0.6+9-LTS-190
+
+
+# Created at 2023-05-09T12:11:35.866
+Unexpected IOException: I,1,sun.io.unicode.encoding,UnicodeLittle
+
+
+# Created at 2023-05-09T12:11:35.867
+Unexpected IOException: I,1,java.class.version,61.0
+
+
+# Created at 2023-05-09T12:11:36.170
+Unexpected IOException: 1,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,cz.muni.fi.pb162.project.BoardTest,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.186
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.BoardTest,getAllPiecesFromBoard,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.258
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.BoardTest,getAllPiecesFromBoard,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.259
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.BoardTest,isEmptyAndPutPieceOnBoard,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.261
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.BoardTest,isEmptyAndPutPieceOnBoard,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.263
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.BoardTest,testToString,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.265
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.BoardTest,testToString,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.266
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.BoardTest,save,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.269
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.BoardTest,save,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.270
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.BoardTest,testHashCode,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.305
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.BoardTest,testHashCode,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.308
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.BoardTest,restore,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.309
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.BoardTest,restore,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.310
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.BoardTest,testEquals,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.311
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.BoardTest,testEquals,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.312
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.BoardTest,setRound,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.313
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.BoardTest,setRound,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.314
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.BoardTest,attributesAndMethodsAmount,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.322
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.BoardTest,attributesAndMethodsAmount,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.323
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.BoardTest,getPieceCoordinates,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.324
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.BoardTest,getPieceCoordinates,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.325
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.BoardTest,findCoordinatesOfPieceById,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.326
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.BoardTest,findCoordinatesOfPieceById,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.327
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.BoardTest,inRange,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.328
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.BoardTest,inRange,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.329
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.BoardTest,getPiece,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.331
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.BoardTest,getPiece,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.331
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.BoardTest,getRound,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.332
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.BoardTest,getRound,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.334
+Unexpected IOException: 2,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,cz.muni.fi.pb162.project.BoardTest,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.337
+Unexpected IOException: 1,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,cz.muni.fi.pb162.project.ChessTest,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.339
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.ChessTest,movePromotionBlackSize,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.341
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.ChessTest,movePromotionBlackSize,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.342
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.ChessTest,inheritance,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.343
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.ChessTest,inheritance,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.344
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.ChessTest,builderAddPieceToBoard,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.347
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.ChessTest,builderAddPieceToBoard,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.348
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.ChessTest,allPossibleMovesByCurrentPlayer,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.373
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.ChessTest,allPossibleMovesByCurrentPlayer,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.374
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.ChessTest,updateStatus,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.375
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.ChessTest,updateStatus,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.376
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.ChessTest,movePromotionWhiteSize,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.377
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.ChessTest,movePromotionWhiteSize,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.378
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.ChessTest,putPieceOnBoard,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.379
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.ChessTest,putPieceOnBoard,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.380
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.ChessTest,caretaker,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.380
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.ChessTest,caretaker,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.382
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.ChessTest,move,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.383
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.ChessTest,move,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.384
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.ChessTest,getMementoHistory,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.387
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.ChessTest,getMementoHistory,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.388
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.ChessTest,getPlayers,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.390
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.ChessTest,getPlayers,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.391
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.ChessTest,testHashCode,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.393
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.ChessTest,testHashCode,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.394
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.ChessTest,getCurrentPlayer,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.395
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.ChessTest,getCurrentPlayer,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.396
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.ChessTest,builderDifferentNumberOfPlayers,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.399
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.ChessTest,builderDifferentNumberOfPlayers,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.400
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.ChessTest,testEquals,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.401
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.ChessTest,testEquals,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.402
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.ChessTest,setInitialSet,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.406
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.ChessTest,setInitialSet,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.407
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.ChessTest,attributesAndMethodsAmount,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.408
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.ChessTest,attributesAndMethodsAmount,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.409
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.ChessTest,getAndSetStateOfGame,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.410
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.ChessTest,getAndSetStateOfGame,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.410
+Unexpected IOException: 2,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,cz.muni.fi.pb162.project.ChessTest,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.411
+Unexpected IOException: 1,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,cz.muni.fi.pb162.project.ColorTest,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.412
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.ColorTest,getOppositeColor,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.413
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.ColorTest,getOppositeColor,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.414
+Unexpected IOException: 2,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,cz.muni.fi.pb162.project.ColorTest,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.415
+Unexpected IOException: 1,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,cz.muni.fi.pb162.project.CoordinateTest,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.416
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.CoordinateTest,compareTo,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.418
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.CoordinateTest,compareTo,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.419
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.CoordinateTest,testToString,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.424
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.CoordinateTest,testToString,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.425
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.CoordinateTest,add,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.426
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.CoordinateTest,add,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.427
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.CoordinateTest,getNumber,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.428
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.CoordinateTest,getNumber,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.429
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.CoordinateTest,averageOfCoordinates,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.430
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.CoordinateTest,averageOfCoordinates,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.431
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.CoordinateTest,getLetterNumber,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.432
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.CoordinateTest,getLetterNumber,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.433
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.CoordinateTest,attributesAndMethodsAmount,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.435
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.CoordinateTest,attributesAndMethodsAmount,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.436
+Unexpected IOException: 2,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,cz.muni.fi.pb162.project.CoordinateTest,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.437
+Unexpected IOException: 1,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,cz.muni.fi.pb162.project.demo.MainTest,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.438
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.demo.MainTest,testMainOutput,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.460
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.demo.MainTest,testMainOutput,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.460
+Unexpected IOException: 2,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,cz.muni.fi.pb162.project.demo.MainTest,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.462
+Unexpected IOException: 1,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,cz.muni.fi.pb162.project.DraughtsTest,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.463
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.DraughtsTest,inheritance,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.464
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.DraughtsTest,inheritance,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.465
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.DraughtsTest,movePromotionBLackSize,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.467
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.DraughtsTest,movePromotionBLackSize,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.468
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.DraughtsTest,allPossibleMovesByCurrentPlayer,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.470
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.DraughtsTest,allPossibleMovesByCurrentPlayer,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.470
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.DraughtsTest,movePromotionWhiteSize,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.471
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.DraughtsTest,movePromotionWhiteSize,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.472
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.DraughtsTest,putPieceOnBoard,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.473
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.DraughtsTest,putPieceOnBoard,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.474
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.DraughtsTest,caretaker,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.475
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.DraughtsTest,caretaker,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.477
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.DraughtsTest,move,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.478
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.DraughtsTest,move,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.479
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.DraughtsTest,getMementoHistory,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.480
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.DraughtsTest,getMementoHistory,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.481
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.DraughtsTest,getPlayers,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.482
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.DraughtsTest,getPlayers,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.483
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.DraughtsTest,updateStatusEnding,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.484
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.DraughtsTest,updateStatusEnding,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.485
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.DraughtsTest,testHashCode,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.486
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.DraughtsTest,testHashCode,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.487
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.DraughtsTest,getCurrentPlayer,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.488
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.DraughtsTest,getCurrentPlayer,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.489
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.DraughtsTest,testEquals,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.490
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.DraughtsTest,testEquals,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.491
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.DraughtsTest,setInitialSet,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.495
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.DraughtsTest,setInitialSet,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.496
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.DraughtsTest,attributesAndMethodsAmount,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.498
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.DraughtsTest,attributesAndMethodsAmount,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.500
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.DraughtsTest,getAndSetStateOfGame,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.501
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.DraughtsTest,getAndSetStateOfGame,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.502
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.DraughtsTest,updateStatusPlaying,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.503
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.DraughtsTest,updateStatusPlaying,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.503
+Unexpected IOException: 2,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,cz.muni.fi.pb162.project.DraughtsTest,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.504
+Unexpected IOException: 1,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,cz.muni.fi.pb162.project.exceptions.ExceptionsTest,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.505
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.exceptions.ExceptionsTest,inheritance,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.506
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.exceptions.ExceptionsTest,inheritance,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.507
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.exceptions.ExceptionsTest,attributesAndMethodsAmount,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.507
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.exceptions.ExceptionsTest,attributesAndMethodsAmount,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.508
+Unexpected IOException: 2,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,cz.muni.fi.pb162.project.exceptions.ExceptionsTest,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.508
+Unexpected IOException: 1,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,cz.muni.fi.pb162.project.GameTest,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.509
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.GameTest,abstractClass,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.510
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.GameTest,abstractClass,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.511
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.GameTest,inheritance,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.512
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.GameTest,inheritance,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.513
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.GameTest,testToStringStateOfGame,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.514
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.GameTest,testToStringStateOfGame,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.516
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.GameTest,attributesAndMethodsAmount,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.516
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.GameTest,attributesAndMethodsAmount,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.517
+Unexpected IOException: 2,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,cz.muni.fi.pb162.project.GameTest,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.518
+Unexpected IOException: 1,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,cz.muni.fi.pb162.project.moves.DiagonalTest,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.519
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.moves.DiagonalTest,inheritance,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.519
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.moves.DiagonalTest,inheritance,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.520
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.moves.DiagonalTest,getAllowedMovesStepOne,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.521
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.moves.DiagonalTest,getAllowedMovesStepOne,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.522
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.moves.DiagonalTest,getAllowedMovesStepBoardSize,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.524
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.moves.DiagonalTest,getAllowedMovesStepBoardSize,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.525
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.moves.DiagonalTest,attributesAndMethods,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.526
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.moves.DiagonalTest,attributesAndMethods,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.526
+Unexpected IOException: 2,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,cz.muni.fi.pb162.project.moves.DiagonalTest,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.527
+Unexpected IOException: 1,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,cz.muni.fi.pb162.project.moves.JumpTest,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.529
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.moves.JumpTest,inheritance,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.530
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.moves.JumpTest,inheritance,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.531
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.moves.JumpTest,attributesAndMethods,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.532
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.moves.JumpTest,attributesAndMethods,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.532
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.moves.JumpTest,getAllowedMoves,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.533
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.moves.JumpTest,getAllowedMoves,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.534
+Unexpected IOException: 2,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,cz.muni.fi.pb162.project.moves.JumpTest,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.534
+Unexpected IOException: 1,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,cz.muni.fi.pb162.project.moves.KnightTest,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.536
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.moves.KnightTest,inheritance,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.537
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.moves.KnightTest,inheritance,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.538
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.moves.KnightTest,attributesAndMethods,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.539
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.moves.KnightTest,attributesAndMethods,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.540
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.moves.KnightTest,getAllowedMoves,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.541
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.moves.KnightTest,getAllowedMoves,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.542
+Unexpected IOException: 2,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,cz.muni.fi.pb162.project.moves.KnightTest,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.543
+Unexpected IOException: 1,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,cz.muni.fi.pb162.project.moves.PawnTest,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.545
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.moves.PawnTest,inheritance,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.546
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.moves.PawnTest,inheritance,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.547
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.moves.PawnTest,attributesAndMethods,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.549
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.moves.PawnTest,attributesAndMethods,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.550
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.moves.PawnTest,getAllowedMoves,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.551
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.moves.PawnTest,getAllowedMoves,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.551
+Unexpected IOException: 2,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,cz.muni.fi.pb162.project.moves.PawnTest,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.552
+Unexpected IOException: 1,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,cz.muni.fi.pb162.project.moves.StraightTest,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.555
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.moves.StraightTest,inheritance,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.556
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.moves.StraightTest,inheritance,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.557
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.moves.StraightTest,getAllowedMovesStepOne,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.558
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.moves.StraightTest,getAllowedMovesStepOne,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.559
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.moves.StraightTest,getAllowedMovesStepBoardSize,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.560
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.moves.StraightTest,getAllowedMovesStepBoardSize,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.561
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.moves.StraightTest,attributesAndMethods,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.562
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.moves.StraightTest,attributesAndMethods,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.563
+Unexpected IOException: 2,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,cz.muni.fi.pb162.project.moves.StraightTest,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.565
+Unexpected IOException: 1,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,cz.muni.fi.pb162.project.PieceTest,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.566
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.PieceTest,inheritance,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.567
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.PieceTest,inheritance,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.569
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.PieceTest,testToString,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.570
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.PieceTest,testToString,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.571
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.PieceTest,getAndSetTypeOfPiece,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.572
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.PieceTest,getAndSetTypeOfPiece,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.573
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.PieceTest,getId,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.574
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.PieceTest,getId,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.575
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.PieceTest,testHashCode,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.577
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.PieceTest,testHashCode,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.578
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.PieceTest,makeClone,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.580
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.PieceTest,makeClone,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.582
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.PieceTest,testEquals,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.584
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.PieceTest,testEquals,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.585
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.PieceTest,attributesAndMethodsAmount,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.586
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.PieceTest,attributesAndMethodsAmount,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.588
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.PieceTest,getAllPossibleMoves,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.589
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.PieceTest,getAllPossibleMoves,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.591
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.PieceTest,getColor,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.592
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.PieceTest,getColor,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.592
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.PieceTest,getMoves,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.593
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.PieceTest,getMoves,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.595
+Unexpected IOException: 2,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,cz.muni.fi.pb162.project.PieceTest,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.596
+Unexpected IOException: 1,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,cz.muni.fi.pb162.project.PlayerTest,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.597
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.PlayerTest,testToString,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.599
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.PlayerTest,testToString,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.600
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.PlayerTest,getters,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.601
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.PlayerTest,getters,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.602
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.PlayerTest,attributesAndMethods,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.604
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.PlayerTest,attributesAndMethods,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.604
+Unexpected IOException: 2,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,cz.muni.fi.pb162.project.PlayerTest,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.605
+Unexpected IOException: 1,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,cz.muni.fi.pb162.project.utils.BoardNotationTest,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.607
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.utils.BoardNotationTest,getCoordinatesOfNotation,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.607
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.utils.BoardNotationTest,getCoordinatesOfNotation,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.610
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.utils.BoardNotationTest,getNotationOfCoordinates,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.611
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.utils.BoardNotationTest,getNotationOfCoordinates,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.612
+Unexpected IOException: 5,1,cz.muni.fi.pb162.project.utils.BoardNotationTest,attributesAndMethodsAmount,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.613
+Unexpected IOException: 6,1,cz.muni.fi.pb162.project.utils.BoardNotationTest,attributesAndMethodsAmount,null,null,null
+
+
+# Created at 2023-05-09T12:11:36.614
+Unexpected IOException: 2,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,cz.muni.fi.pb162.project.utils.BoardNotationTest,null,null,null
+
+
