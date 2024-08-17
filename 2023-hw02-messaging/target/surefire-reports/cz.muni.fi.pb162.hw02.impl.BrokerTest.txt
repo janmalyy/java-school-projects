@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: cz.muni.fi.pb162.hw02.impl.BrokerTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.306 s - in cz.muni.fi.pb162.hw02.impl.BrokerTest
