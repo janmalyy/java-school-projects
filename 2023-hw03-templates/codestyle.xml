@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<!DOCTYPE module PUBLIC
+        "-//Checkstyle//DTD Checkstyle Configuration 1.3//EN"
+        "https://checkstyle.org/dtds/configuration_1_3.dtd">
+
+<module name="Checker">
+    <!-- Checks for whitespace -->
+    <module name="FileTabCharacter"/>
+
+    <!-- Checks for line length -->
+    <module name="LineLength">
+        <property name="max" value="120"/>
+        <property name="ignorePattern" value="^ *\*.+$"/>
+    </module>
+
+    <!-- TreeWalker children require Java Parser -->
+    <module name="TreeWalker">
+        <!-- Checks for Javadoc comments -->
+        <module name="JavadocMethod">
+            <property name="accessModifiers" value="public"/>
+        </module>
+        <module name="MissingJavadocMethodCheck">
+            <property name="allowMissingPropertyJavadoc" value="true"/>
+        </module>
+        <module name="JavadocType">
+            <property name="scope" value="public"/>
+        </module>
+        <module name="JavadocStyle">
+            <property name="scope" value="public"/>
+            <property name="checkFirstSentence" value="false"/>
+        </module>
+
+        <!-- Checks for Naming Conventions -->
+        <module name="ConstantName"/>
+        <module name="LocalFinalVariableName"/>
+        <module name="LocalVariableName"/>
+        <module name="MemberName"/>
+        <module name="MethodName"/>
+        <module name="PackageName"/>
+        <module name="ParameterName"/>
+        <module name="StaticVariableName"/>
+        <module name="TypeName"/>
+
+        <!-- Checks for imports -->
+        <module name="AvoidStarImport"/>
+        <module name="IllegalImport"/> <!-- defaults to sun.* packages -->
+        <module name="RedundantImport"/>
+        <module name="UnusedImports"/>
+
+        <!-- Checks for Size Violations -->
+        <module name="MethodLength">
+            <property name="max" value="50"/>
+            <property name="countEmpty" value="false"/>
+        </module>
+        <module name="ParameterNumber"/>
+
+        <!-- Modifier Checks -->
+        <module name="ModifierOrder"/>
+        <module name="RedundantModifier"/>
+
+        <!-- Checks for blocks. You know, those {}'s  -->
+        <module name="AvoidNestedBlocks"/>
+        <module name="LeftCurly">
+            <property name="option" value="eol"/>
+        </module>
+        <module name="NeedBraces">
+            <property name="allowSingleLineStatement" value="false"/>
+        </module>
+        <module name="RightCurly"/>
+
+        <!-- Checks for common coding problems -->
+        <module name="EmptyStatement"/>
+        <module name="EqualsHashCode"/>
+        <module name="MissingSwitchDefault"/>
+        <module name="SimplifyBooleanExpression"/>
+        <module name="SimplifyBooleanReturn"/>
+
+        <!-- Checks for class design -->
+        <module name="FinalClass"/>
+        <module name="InterfaceIsType"/>
+        <module name="VisibilityModifier">
+            <property name="protectedAllowed" value="true"/>
+        </module>
+
+        <!-- Miscellaneous other checks -->
+        <module name="ArrayTypeStyle"/>
+
+        <!-- Number of method parameters -->
+        <module name="ParameterNumber">
+            <property name="max" value="12"/>
+        </module>
+    </module>
+</module>

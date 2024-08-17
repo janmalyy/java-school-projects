@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: cz.muni.fi.pb162.hw03.StringTemplateTest
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.026 s - in cz.muni.fi.pb162.hw03.StringTemplateTest

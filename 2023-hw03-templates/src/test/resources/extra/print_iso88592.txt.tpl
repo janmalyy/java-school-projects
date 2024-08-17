@@ -1,0 +1,1 @@
+The cat named {{ cat }} says "Pøíli¹ ¾lu»ouèkı kùò úpìl ïábelské ódy".
