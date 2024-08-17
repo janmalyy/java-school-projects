@@ -7,11 +7,6 @@ Almost complete app for playing chess.
 
 An app which encodes numbers 0-9 as 7-segment digits.
 
-E. g. 4 >> |_|
-
-             |  
-
-
 **HW02 Messaging**
 
 A simple interface implementing message broker system.
@@ -23,15 +18,15 @@ A simple app which parses the text, finds commands inside the text, executes the
 
 E. g.
 
-*Variables:*
+Variables:
 
-name: "Nibbles"
+    name: "Nibbles"
 
-"surname": "Disney"
+    surname: "Disney"
 
-names: ("Butch", "Toodles", "Quacker")
+    names: ("Butch", "Toodles", "Quacker")
 
-*Input:*
+Input:
 
     The name is {{ name }} and the surname is {{ surname }}.
                 
@@ -42,9 +37,9 @@ names: ("Butch", "Toodles", "Quacker")
                 
     Now the name is {{ name }} again.
     
-*Output:*
+Output:
 
-The name is Nibbles and the surname is Disney.
+    The name is Nibbles and the surname is Disney.
                 
     Other known names:
         - Butch Disney
@@ -54,4 +49,4 @@ The name is Nibbles and the surname is Disney.
     Now the name is Nibbles again.
 
 
-Disclaimer: Not all code was written by me, some parts were given by lecturers.
+Disclaimer: Not all code was written by me, some parts were prepared by lecturers.
